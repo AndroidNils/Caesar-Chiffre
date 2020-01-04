@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CaesarChiffre
+comment1.params=encrypting
+comment1.target=void\ start(boolean)
+comment2.params=letter\ shift\ encrypting
+comment2.target=int\ shift(int,\ int,\ boolean)
+numComments=3
