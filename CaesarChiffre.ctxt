@@ -2,6 +2,6 @@
 comment0.target=CaesarChiffre
 comment1.params=text\ key\ wirdVerschluesselt
 comment1.target=java.lang.String\ start(java.lang.String,\ int,\ boolean)
-comment2.params=letter\ shift\ wirdVerschluesselt
+comment2.params=buchstabe\ key\ wirdVerschluesselt
 comment2.target=int\ verschieb(int,\ int,\ boolean)
 numComments=3
